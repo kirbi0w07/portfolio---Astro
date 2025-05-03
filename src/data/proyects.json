@@ -33,52 +33,7 @@
     "web": "https://glittery-madeleine-5c74c3.netlify.app/",
     "longDesc": "<!DOCTYPE html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Welcome file</title>\n  <link rel=\"stylesheet\" href=\"https://stackedit.io/style.css\" />\n</head>\n\n<body class=\"stackedit\">\n  <div class=\"stackedit__html\"><p><img src=\"https://i.imgur.com/7cNqkwx.png\n\" alt=\"enter image description here\"><br>\n<p>Rick & Morty wiki cuenta con datos interesantes de la serie como personajes, locaciones, episodios y datos a detalle de cada integrante de la serie animada.</p>\n<p>el proyecto fue creado utilizando las siguientes tecnologías:</p>\n<ul>\n<li>React</li>\n<li>TailwindCSS</li>\n<li>Git y Github</li>\n</ul>\n<p>La aplicación web cuenta con las siguientes funciones:</p>\n<ul>\n<li>Mostrar todos los personajes</li>\n<li>Mostrar informacion detallada de cada personaje.</li>\n<li>Mostrar todas las locaciones</li>\n<li>Mostrar informacion detallada de cada locacion como los personajes que viven en esa locacion</li>\n<li>Mostrar todos los episodios</li>\n<li>Mostrar informacion detallada de cada episodio, como tambien los personajes que salen en el episodio</li>\n</ul>\n</div>\n</body>\n\n</html>"
   },
-  {
-    "title": "Foro 420",
-    "shortDesc": "Foro sobre cultivo y cultura cannabica en español 🌱",
-    "cover": "https://i.imgur.com/6IBUPlV.png",
-    "technologies": [
-      {
-        "name": "Git",
-        "image": "/assets/techs/git.png"
-      },
-      {
-        "name": "Github",
-        "image": "/assets/techs/github.png"
-      },
-      {
-        "name": "TailwindCSS",
-        "image": "/assets/techs/Tailwind-img.png"
-      },
-      {
-        "name": "NPM",
-        "image": "/assets/techs/1200px-Npm-logo.svg.png"
-      },
-      {
-        "name": "NodeJS",
-        "image": "/assets/techs/node.png"
-      },
-      {
-        "name": "NextJS",
-        "image": "/assets/techs/next.png"
-      },
-      {
-        "name": "MongoDB",
-        "image": "/assets/techs/mongo.png"
-      },
-      {
-        "name": "PostMan",
-        "image": "/assets/techs/postman.png"
-      },
-      {
-        "name": "Socket.io",
-        "image": "/assets/techs/Socket-io.svg"
-      }
-    ],
-    "repo": "https://github.com/barbosa0205/foro420",
-    "web": "https://foro420-ten.vercel.app/",
-    "longDesc": "<!DOCTYPE html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Welcome file</title>\n  <link rel=\"stylesheet\" href=\"https://stackedit.io/style.css\" />\n</head>\n\n<body class=\"stackedit\">\n  <div class=\"stackedit__html\"><p><img src=\"https://i.imgur.com/tJ8JUKE.png\" alt=\"enter image description here\"><br>\nForo 420 es un sitio en español en el que se pueden crear aportes, publicaciones o preguntas sobre la cultura cannabica. el proyecto fue creado utilizando el stack MERN (MongoDB, Express, React, Node)<br>\ntambién se utilizaron las siguientes tecnologías:</p>\n<ul>\n<li>NextJS (Framework de React).</li>\n<li>Tailwind CSS (estilos).</li>\n<li>Socket-io (Conexión en tiempo real).</li>\n</ul>\n<p>la aplicación web cuenta con las siguientes funciones:</p>\n<ul>\n<li>Inicio de sesión / Registro con Google.</li>\n<li>Crear, Ver, Editar y Eliminar posts.</li>\n<li>Guardar posts.</li>\n<li>dar me gusta a posts.</li>\n<li>agregar  o seguir a otros usuarios.</li>\n<li>Editar tu perfil.</li>\n<li>Notificaciones en tiempo Real.</li>\n<li>Responsive.</li>\n</ul>\n</div>\n</body>\n\n</html>\n"
-  },
+
   {
     "title": "Portafolio",
     "shortDesc": "Mi portafolio, donde estas leyendo esto tambien es un proyecto! 🎉",
@@ -143,45 +98,6 @@
     "web": "https://mypokedex-barbosa02058.netlify.app/welcome",
     "longDesc": "<!DOCTYPE html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Welcome file</title>\n  <link rel=\"stylesheet\" href=\"https://stackedit.io/style.css\" />\n</head>\n\n<body class=\"stackedit\">\n  <div class=\"stackedit__html\"><p><img src=\"https://i.imgur.com/ZNKUbky.png\" alt=\"enter image description here\"><br>\nMyPokedex es una intuitiva y responsiva aplicación en la cual puedes explorar y obtener información acerca de cientos de pokemon.</p>\n<p>El proyecto fue creado utilizando las siguientes tecnologías:</p>\n<ul>\n<li>React</li>\n<li>SASS</li>\n<li>API pokeapi</li>\n</ul>\n<p>La aplicación web cuenta con las siguientes funciones:</p>\n<ul>\n<li>Inicio de sesión por nombre.</li>\n<li>Al iniciar sesión por nombre se te coloca un avatar al azar.</li>\n<li>Muestra pokemon aleatorio.</li>\n<li>Puedes cambiar a otro pokemon aleatorio.</li>\n<li>Puedes buscar pokemon por su nombre o id.</li>\n<li>Puedes explorar todos los pokemons con paginación.</li>\n<li>Ver información detallada de cada pokemon</li>\n<li>Responsive</li>\n</ul>\n</div>\n</body>\n\n</html>\n"
   },
-  {
-    "title": "Pares Game",
-    "shortDesc": "Juego de cartas multijugador de hasta 6 jugadores, con una interfaz amigable y divertida ♠️ ♥️ (beta)",
-    "cover": "https://i.imgur.com/sYBEp36.jpg",
-    "technologies": [
-      {
-        "name": "Git",
-        "image": "/assets/techs/git.png"
-      },
-      {
-        "name": "Github",
-        "image": "/assets/techs/github.png"
-      },
-      {
-        "name": "SASS",
-        "image": "/assets/techs/sass.png"
-      },
-      {
-        "name": "React",
-        "image": "/assets/techs/react.png"
-      },
-      {
-        "name": "NPM",
-        "image": "/assets/techs/1200px-Npm-logo.svg.png"
-      },
-      {
-        "name": "Firabase",
-        "image": "/assets/techs/firebase.png"
-      },
-      {
-        "name": "Socket.io",
-        "image": "/assets/techs/Socket-io.svg"
-      }
-    ],
-    "repo": "https://github.com/barbosa0205/pares-game",
-    "web": "https://pares-game.web.app/",
-    "longDesc": "<!DOCTYPE html>\n<html>\n\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Welcome file</title>\n  <link rel=\"stylesheet\" href=\"https://stackedit.io/style.css\" />\n</head>\n\n<body class=\"stackedit\">\n  <div class=\"stackedit__html\"><p><img src=\"https://i.imgur.com/bk6FLL1.png\" alt=\"enter image description here\"><br>\nPares Game es un juego de cartas Online de hasta 6 jugadores, esta basado en el juego de cartas “a pescar” o “pares” el juego consiste en hacer pares preguntando a tus contrincantes si tienen alguna carta que te sirva, el que se quede sin cartas gana la partida. el proyecto fue creado utilizando las siguientes tecnologías:</p>\n<ul>\n<li>React</li>\n<li>SASS</li>\n<li>Socket-io (Conexión en tiempo real).</li>\n<li>Firebase (base de datos)</li>\n</ul>\n<p>la aplicación web cuenta con las siguientes funciones:</p>\n<ul>\n<li>Inicio de sesión / Registro con Google.</li>\n<li>Editar tu perfil.</li>\n<li>Notificaciones en tiempo Real.</li>\n<li>Creación de salas para jugar en grupo.</li>\n<li>Responsive.</li>\n</ul>\n</div>\n</body>\n\n</html>\n"
-  },
-
   {
     "title": "e-commerce Dagga Winkel",
     "shortDesc": "Tienda en linea Dagga winkel. E-commerce ficticio de productos variados 🛒",

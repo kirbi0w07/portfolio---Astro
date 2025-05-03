@@ -12,6 +12,10 @@
     "image": "/assets/techs/js.png"
   },
   {
+    "name": "PHP",
+    "image": "/assets/techs/php.png"
+  },
+  {
     "name": "Git",
     "image": "/assets/techs/git.png"
   },
@@ -32,8 +36,20 @@
     "image": "/assets/techs/react.png"
   },
   {
+    "name": "Vue",
+    "image": "/assets/techs/vue.svg"
+  },
+  {
     "name": "NPM",
     "image": "/assets/techs/1200px-Npm-logo.svg.png"
+  },
+  {
+    "name": "Composer",
+    "image": "/assets/techs/composer.png"
+  },
+  {
+    "name": "Laravel",
+    "image": "/assets/techs/laravel.png"
   },
   {
     "name": "NodeJS",
@@ -46,6 +62,14 @@
   {
     "name": "NextJS",
     "image": "/assets/techs/next.png"
+  },
+  {
+    "name": "MYSQL",
+    "image": "/assets/techs/mysql.png"
+  },
+  {
+    "name":"PostgreSQL",
+    "image": "/assets/techs/postgresql.png"
   },
   {
     "name": "MongoDB",
